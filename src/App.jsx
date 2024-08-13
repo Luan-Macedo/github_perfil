@@ -17,10 +17,10 @@ function App() {
         </>
       )}
 
-      {formularioEstaVisivel && (
+      {/* {formularioEstaVisivel && (
         <Formulario/>
       )}
-      <button onClick={() => setFormularioEstaVisivel(!formularioEstaVisivel)} type="button">toggle form</button>
+      <button onClick={() => setFormularioEstaVisivel(!formularioEstaVisivel)} type="button">toggle form</button> */}
     </>
   )
 }
